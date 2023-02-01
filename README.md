@@ -8,7 +8,7 @@
 ## In-Class Assignments
 * ICA1
 * ICA2
-* ICA3
+* ICA3 <a href="./wa/wa1.html">
 * ICA4
 * ICA5
 * ICA6
@@ -22,8 +22,8 @@
 * ICA14
 * ICA15
 ## Weekly Assignemnts
-* WA1
-* WA2
+* WA1 <a href="./wa/wa1.html">
+* WA2 <a href="./wa/wa2.html">
 * WA3
 * WA4
 * WA5
