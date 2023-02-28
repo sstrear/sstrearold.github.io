@@ -55,4 +55,28 @@ body {
   footer {
     background-color: lightslategray;
   }
+
+
+  @keyframes fly {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+
+  
+  .jet {
+    position: absolute;
+    top: -0px;
+    left: -100px;
+    animation: fly 10s linear ;
+    animation-iteration-count: 1;
+  }
+  
+  .jet img {
+    height: 100px;
+  }
+  
   
