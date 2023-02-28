@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #333333;
+    background-color: lightslategray;
     color: #fff;
     padding: 1rem;
   }
@@ -53,6 +53,6 @@ body {
   }
   
   footer {
-    background-color: #333;
+    background-color: lightslategray;
   }
   
