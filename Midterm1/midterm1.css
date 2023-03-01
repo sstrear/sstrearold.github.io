@@ -69,14 +69,14 @@ body {
   
   .jet {
     position: absolute;
-    top: -0px;
+    top: 0px;
     left: -100px;
-    animation: fly 10s linear ;
+    animation: fly 1s linear forwards;
     animation-iteration-count: 1;
   }
   
   .jet img {
-    height: 100px;
+    height: px;
   }
   
   

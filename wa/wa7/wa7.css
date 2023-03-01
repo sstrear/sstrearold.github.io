@@ -1,0 +1,61 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: burlywood;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+nav{
+    height: 50vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:20px;
+    background-color: wheat;
+}
+nav a{
+    width:10vw;
+    text-align: center;
+    text-decoration: none;
+    color:black;
+}
+
+
+img{
+    width:30vw;
+    height: 30vh;
+}
+
+#red-ball{
+    background-color: crimson;
+    width: 20px;
+    height:20px;
+    border-radius: 50%;
+    position: absolute;
+    left:5vw;
+    top:0;
+    animation: bounce 7s infinite;
+    }
+    
+    @keyframes bounce {
+        0% {
+            top: 0;
+            left: 5vw;
+        }
+        25% {
+            top: 50vh;
+            left: 90vw;
+        }
+        50% {
+            top: 90vh;
+            left: 5vw;
+        }
+        75% {
+            top: 50vh;
+            left: 0;
+        }
+        100% {
+            top: 0;
+            left: 5vw;
+        }
+    }
