@@ -6,14 +6,15 @@
 * CSS
 * JS
 ## In-Class Assignments
-* ICA1
-* ICA2
-* ICA3 <a href="./ica/ica3a.html">
-* <p><a href="#./ica/ica3a.html">ICA4</a></p>
-* ICA5
-* ICA6
-* ICA7
-* ICA8
+* <p><a href="#sstrear.github.io/ica/ica1.html">ICA1</a></p>
+* <p><a href="#sstrear.github.io/ica/ica2.html">ICA2</a></p>
+* <p><a href="#sstrear.github.io/ica/ica3a.html">ICA3A</a></p>
+* * <p><a href="#sstrear.github.io/ica/ica3b.html">ICA3B</a></p>
+* <p><a href="#sstrear.github.io/ica/ica4.html">ICA4</a></p>
+* <p><a href="#sstrear.github.io/ica/ica5.html">ICA5</a></p>
+* <p><a href="#sstrear.github.io/ica/ica6.html">ICA6</a></p>
+* <p><a href="#sstrear.github.io/ica/ica7.html">ICA7</a></p>
+* <p><a href="#sstrear.github.io/ica/ica8.html">ICA8</a></p>
 * ICA9
 * ICA10
 * ICA11
@@ -22,14 +23,14 @@
 * ICA14
 * ICA15
 ## Weekly Assignemnts
-* WA1 <a href="./wa/wa1.html">
-* WA2 <a href="./wa/wa2.html">
-* WA3 <a href="./wa/wa3.html">
-* WA4 <a href="./wa/wa4.html">
-* WA5 <a href="./wa/wa5.html">
-* WA6
-* WA7
-* WA8
+* <p><a href="#sstrear.github.io/wa/wa1.html">WA1</a></p>
+* <p><a href="#sstrear.github.io/wa/wa2.html">WA2</a></p>
+* <p><a href="#sstrear.github.io/wa/wa3.html">WA3</a></p>
+* <p><a href="#sstrear.github.io/wa/wa4.html">WA4</a></p>
+* <p><a href="#sstrear.github.io/wa/wa5.html">WA5</a></p>
+* <p><a href="#sstrear.github.io/wa/wa6.html">WA6</a></p>
+* <p><a href="#sstrear.github.io/wa/wa7.html">WA7</a></p>
+* <p><a href="#sstrear.github.io/wa/wa8.html">WA8</a></p>
 * WA9
 * WA10
 * WA11
