@@ -6,26 +6,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/midterm1.css">
     <title>Welcome</title>
+
+    <style>
+      @media (min-width: 576px) {
+        .html {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (min-width: 768px) {
+        .html {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+
+      @media (min-width: 992px) {
+        .html {
+          grid-template-columns: repeat(3, 1fr);
+        }
+      }
+    </style>
+
   </head>
-      <style>
-        @media (min-width: 576px) {
-          .html {
-            grid-template-columns: 1fr;
-          }
-        }
-  
-        @media (min-width: 768px) {
-          .html {
-            grid-template-columns: repeat(2, 1fr);
-          }
-        }
-  
-        @media (min-width: 992px) {
-          .html {
-            grid-template-columns: repeat(3, 1fr);
-          }
-        }
-      </style>
 
   <header>
     <nav class="header-nav">
