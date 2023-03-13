@@ -9,7 +9,7 @@
 * <p><a href="#sstrear.github.io/ica/ica1.html">ICA1</a></p>
 * <p><a href="#sstrear.github.io/ica/ica2.html">ICA2</a></p>
 * <p><a href="#sstrear.github.io/ica/ica3a.html">ICA3A</a></p>
-* * <p><a href="#sstrear.github.io/ica/ica3b.html">ICA3B</a></p>
+* <p><a href="#sstrear.github.io/ica/ica3b.html">ICA3B</a></p>
 * <p><a href="#sstrear.github.io/ica/ica4.html">ICA4</a></p>
 * <p><a href="#sstrear.github.io/ica/ica5.html">ICA5</a></p>
 * <p><a href="#sstrear.github.io/ica/ica6.html">ICA6</a></p>
