@@ -1,0 +1,47 @@
+#game {
+  text-align: center;
+  font-size: 24px;
+}
+
+.choices {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.btn {
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 0 10px;
+  background-color: #98754f;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #898888;
+}
+
+.players {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.player, .computer {
+  margin-right: 20px;
+}
+
+.player-choice, .computer-choice {
+  width: 200px;
+  height: 200px;
+  border: 2px solid #1304b7;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.result {
+  margin: 20px;
+  font-size: 32px;
+}
