@@ -27,7 +27,7 @@ function playGame(playerChoice) {
 
   // update images
   if (playerChoice === 'rock') {
-    playerChoiceImg.src = 'TheRock.jpg';
+    playerChoiceImg.src = 'TheRock.png';
   } else if (playerChoice === 'paper') {
     playerChoiceImg.src = 'PaperOffice.png';
   } else if (playerChoice === 'scissors') {
@@ -35,7 +35,7 @@ function playGame(playerChoice) {
   }
   
   if (computerChoiceName === 'rock') {
-    computerChoiceImg.src = 'TheRock.jpg';
+    computerChoiceImg.src = 'TheRock.png';
   } else if (computerChoiceName === 'paper') {
     computerChoiceImg.src = 'PaperOffice.png';
   } else if (computerChoiceName === 'scissors') {

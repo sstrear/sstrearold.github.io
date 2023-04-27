@@ -36,7 +36,6 @@
 .player-choice, .computer-choice {
   width: 200px;
   height: 200px;
-  border: 2px solid #1304b7;
   border-radius: 5px;
   margin-bottom: 10px;
 }
