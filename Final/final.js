@@ -6,10 +6,13 @@ const computerChoiceImg = document.querySelector('.computer-choice');
 let playerScore = 0;
 let computerScore = 0;
 
+
+
 function playGame(playerChoice) {
   const choicesArray = ['rock', 'paper', 'scissors'];
   const computerChoice = Math.floor(Math.random() * 3);
   const computerChoiceName = choicesArray[computerChoice];
+  updateScores();
 
   if (playerChoice === computerChoiceName) {
     result.textContent = 'Tie!';
@@ -20,9 +23,11 @@ function playGame(playerChoice) {
   ) {
     playerScore++;
     result.textContent = 'You win!';
+    document.getElementById("player-score").textContent = playerScore;
   } else {
     computerScore++;
     result.textContent = 'You lose!';
+    document.getElementById("computer-score").textContent = computerScore;
   }
 
   // update images
@@ -42,6 +47,16 @@ function playGame(playerChoice) {
     computerChoiceImg.src = 'Scissors.png';
   }
 }
+
+function updateScores() {
+  const playerScoreDisplay = document.getElementById('player-score');
+  const computerScoreDisplay = document.getElementById('computer-score');
+
+  playerScoreDisplay.textContent = playerScore;
+  computerScoreDisplay.textContent = computerScore;
+}
+
+
 
 choices.forEach(choice => {
   choice.addEventListener('click', () => {
